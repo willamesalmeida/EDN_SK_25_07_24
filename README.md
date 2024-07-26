@@ -20,7 +20,7 @@ Migrar a infraestrutura de TI da Empresa X para a nuvem usando serviços da AWS,
 
 ## 🗂️ Plano do Projeto
 
-## Fluxograma
+## 📈 Fluxograma
 
 ![Fluxograma do Projeto](https://github.com/willamesalmeida/EDN_SK_25_07_24/blob/main/Imagem%20do%20WhatsApp%20de%202024-07-25%20%C3%A0(s)%2021.30.58_8d9aa3bd.jpg)
 
@@ -82,7 +82,7 @@ Migrar a infraestrutura de TI da Empresa X para a nuvem usando serviços da AWS,
   - **Segurança**: AWS Identity and Access Management (IAM), AWS Shield, AWS WAF
   - **Análise de Dados**: Amazon Redshift, AWS Glue, Amazon Athena
 
-## Arquitetura 
+## 🏛️ Arquitetura 
 
 ![Arquitetura](https://github.com/willamesalmeida/EDN_SK_25_07_24/blob/main/Imagem%20do%20WhatsApp%20de%202024-07-25%20%C3%A0(s)%2021.29.49_11bc1aa3.jpg)
 
